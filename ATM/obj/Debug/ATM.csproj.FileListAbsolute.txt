@@ -1,0 +1,43 @@
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.exe
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.pdb
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.exe
+c:\users\user\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.Form1.resources
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.Form2.resources
+C:\Users\sahab\OneDrive\Рабочий стол\ATM\ATM\obj\Debug\ATM.Form3.resources
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.Form1.resources
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.Form2.resources
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.Form3.resources
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\user\Desktop\ДЗ УНИК\ооп\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.Form1.resources
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.Form2.resources
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.Form3.resources
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\iaukh\OneDrive\Рабочий стол\Новая папка\ATM\ATM\obj\Debug\ATM.pdb
